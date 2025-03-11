@@ -32,8 +32,8 @@
         },
         {
             id: 6,
-            question: "Oceanische plaat.",
-            answer: "Plaat die bestaat uit een groot zeeoppervlak.",
+            question: "Plaat die bestaat uit een groot zeeoppervlak.",
+            answer: "oceanische plaat",
         },
         {
             id: 7,
