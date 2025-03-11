@@ -5,394 +5,75 @@
     const flashCards = [
         {
             id: 1,
-            question: "οὐ, οὐκ, οὐχ",
-            answer: "niet",
+            question:
+                "Schokkende beweging van een gedeelte van de aardkorst door de werking van endogende krachten.",
+            answer: "aardbeving",
         },
         {
             id: 2,
-            question: "ἐστί(ν)",
-            answer: "is",
+            question: "Plaat die bestaat uit een groot landoppervlak.",
+            answer: "continentale plaat",
         },
         {
             id: 3,
-            question: "ὁ ἄνθρωπος",
-            answer: "mens",
+            question:
+                "Stroming van het gesmolten gesteente onder de aardkorst binnen in de aarde.",
+            answer: "convectiestromen",
         },
         {
             id: 4,
-            question: "ὁ θεός",
-            answer: "god",
+            question: "Heet vloeibaar gesteente binnen in de aarde.",
+            answer: "magma",
         },
         {
             id: 5,
-            question: "εἰσί(ν)",
-            answer: "zijn",
+            question: "Magma dat door de aardkorst naar buiten is gestroomd.",
+            answer: "lava",
         },
         {
             id: 6,
-            question: "ὁ δοῦλος",
-            answer: "slaaf",
+            question: "Oceanische plaat.",
+            answer: "Plaat die bestaat uit een groot zeeoppervlak.",
         },
         {
             id: 7,
-            question: "ἔχει",
-            answer: "heeft",
+            question:
+                "Een ramp veroorzaakt door de natuur met veel slachtoffers en grote schade.",
+            answer: "natuurramp",
         },
         {
             id: 8,
-            question: "ἔχουσι(ν)",
-            answer: "hebben",
+            question: "Stuk van de aardkorst.",
+            answer: "platen",
         },
         {
             id: 9,
-            question: "ἡ χώρα",
-            answer: "land",
+            question:
+                "Schaal die de hevigheid en de schade een aardbeving weergeeft.",
+            answer: "schaal van Mercalli",
         },
         {
             id: 10,
-            question: "οἰκεῖ",
-            answer: "woont",
+            question: "Een ander woord voor platen.",
+            answer: "schollen",
         },
         {
             id: 11,
-            question: "οἰκοῦσι(ν)",
-            answer: "wonen",
+            question:
+                "Het wegduiken van een oceanische plaat onder een continentale plaat.",
+            answer: "subductie",
         },
         {
             id: 12,
-            question: "ὁ φόβος",
-            answer: "angst",
+            question:
+                "Een diepe kloof in de oceaan die onstaat door subductie van een oceanische plaat.",
+            answer: "trog",
         },
         {
             id: 13,
-            question: "δε, δ᾽",
-            answer: "en",
-        },
-        {
-            id: 14,
-            question: "φέρει",
-            answer: "draagt",
-        },
-        {
-            id: 15,
-            question: "φέρουσι(ν)",
-            answer: "dragen",
-        },
-        {
-            id: 16,
-            question: "τὸ θηρίον",
-            answer: "wild dier",
-        },
-        {
-            id: 17,
-            question: "βαίνει",
-            answer: "gaat",
-        },
-        {
-            id: 18,
-            question: "βαίνουσι(ν)",
-            answer: "gaan",
-        },
-        {
-            id: 19,
-            question: "πρός",
-            answer: "naar",
-        },
-        {
-            id: 20,
-            question: "αλλα, αλλ᾽",
-            answer: "maar",
-        },
-        {
-            id: 21,
-            question: "οὕτως, οὕτω",
-            answer: "zo",
-        },
-        {
-            id: 22,
-            question: "φεύγει",
-            answer: "vlucht",
-        },
-        {
-            id: 23,
-            question: "φεύγουσι(ν)",
-            answer: "vluchten",
-        },
-        {
-            id: 24,
-            question: "μάχη",
-            answer: "gevecht",
-        },
-        {
-            id: 25,
-            question: "νῦν",
-            answer: "nu",
-        },
-        {
-            id: 26,
-            question: "εἰς",
-            answer: "naar",
-        },
-        {
-            id: 27,
-            question: "καί",
-            answer: "en",
-        },
-        {
-            id: 28,
-            question: "λαμβάνει",
-            answer: "neemt",
-        },
-        {
-            id: 29,
-            question: "λαμβάνουσι(ν)",
-            answer: "nemen",
-        },
-
-        {
-            id: 30,
-            question: "τοῦτο",
-            answer: "dit",
-        },
-        {
-            id: 31,
-            question: "ποιεῖ",
-            answer: "doet",
-        },
-        {
-            id: 32,
-            question: "ποιοῦσι(ν)",
-            answer: "doen",
-        },
-        {
-            id: 33,
-            question: "ὁ δεσπότης",
-            answer: "heerser",
-        },
-        {
-            id: 34,
-            question: "γάρ",
-            answer: "want",
-        },
-        {
-            id: 35,
-            question: "ὁ φίλος",
-            answer: "vriend",
-        },
-        {
-            id: 36,
-            question: "ἐνθαῦτα",
-            answer: "daar",
-        },
-        {
-            id: 37,
-            question: "μέγας, μεγάλη, μέγα",
-            answer: "groot",
-        },
-        {
-            id: 38,
-            question: "δεινός, δεινή, δεινόν",
-            answer: "verschrikkelijk",
-        },
-        {
-            id: 39,
-            question: "φοβερός, φοβερά, φοβερόν",
-            answer: "angstaanjagend",
-        },
-        {
-            id: 40,
-            question: "μέν",
-            answer: "tweede zin",
-        },
-        {
-            id: 41,
-            question: "κεφαλή",
-            answer: "hoofd",
-        },
-        {
-            id: 42,
-            question: "θνητός",
-            answer: "sterfelijk",
-        },
-        {
-            id: 43,
-            question: "ἀθάνατος",
-            answer: "onsterfelijk",
-        },
-        {
-            id: 44,
-            question: "ζητεῖ",
-            answer: "zoekt",
-        },
-        {
-            id: 45,
-            question: "εὑρίσκει",
-            answer: "vindt",
-        },
-        {
-            id: 46,
-            question: "μακρός, μακρά, μακρόν",
-            answer: "lang",
-        },
-        {
-            id: 47,
-            question: "ἔπειτα",
-            answer: "daarna",
-        },
-        {
-            id: 48,
-            question: "οὐδέν",
-            answer: "niets",
-        },
-        {
-            id: 49,
-            question: "μία",
-            answer: "een",
-        },
-        {
-            id: 50,
-            question: "τί...",
-            answer: "waarom",
-        },
-        {
-            id: 51,
-            question: "πρῶτον μέν..., ἔπειτα δέ",
-            answer: "eerst daarna",
-        },
-        {
-            id: 52,
-            question: "ἀποκτείνει",
-            answer: "doodt",
-        },
-        {
-            id: 53,
-            question: "καλεῖ",
-            answer: "roept",
-        },
-        {
-            id: 54,
-            question: "νέος, νέα, νέον",
-            answer: "nieuw",
-        },
-        {
-            id: 55,
-            question: "ἄλλος, ἄλλη, ἄλλο",
-            answer: "ander",
-        },
-        {
-            id: 56,
-            question: "ἕκαστος, ἑκάστη, ἕκαστον",
-            answer: "ieder",
-        },
-        {
-            id: 57,
-            question: "αὐτίκα",
-            answer: "meteen",
-        },
-        {
-            id: 58,
-            question: "ἡ πέτρα",
-            answer: "rots",
-        },
-        {
-            id: 59,
-            question: "κρύπτει",
-            answer: "verbergt",
-        },
-        {
-            id: 60,
-            question: "ἡ βασίλεια",
-            answer: "koningin",
-        },
-        {
-            id: 61,
-            question: "μάλα",
-            answer: "erg",
-        },
-        {
-            id: 62,
-            question: "ἀνδρεῖος",
-            answer: "dapper",
-        },
-        {
-            id: 63,
-            question: "καλός",
-            answer: "mooi",
-        },
-        {
-            id: 64,
-            question: "τὸ δῶρον",
-            answer: "geschenk",
-        },
-        {
-            id: 65,
-            question: "ὁ πόλεμος",
-            answer: "oorlog",
-        },
-        {
-            id: 66,
-            question: "φιλέω",
-            answer: "houden van",
-        },
-        {
-            id: 67,
-            question: "φίλος",
-            answer: "geliefd",
-        },
-        {
-            id: 68,
-            question: "θαυμάζω",
-            answer: "bewonderen",
-        },
-        {
-            id: 69,
-            question: "οὖν",
-            answer: "dan",
-        },
-        {
-            id: 70,
-            question: "αἰτέω",
-            answer: "vragen",
-        },
-        {
-            id: 71,
-            question: "ἐγώ",
-            answer: "ik",
-        },
-        {
-            id: 72,
-            question: "ἐπιθυμέω",
-            answer: "verlangen",
-        },
-        {
-            id: 73,
-            question: "ἐθέλω",
-            answer: "willen",
-        },
-        {
-            id: 74,
-            question: "σύ",
-            answer: "jij",
-        },
-        {
-            id: 75,
-            question: "ἐπί",
-            answer: "op af",
-        },
-        {
-            id: 76,
-            question: "πέμπω",
-            answer: "sturen",
-        },
-        {
-            id: 77,
-            question: "ὁ ἑταῖρος",
-            answer: "vriend",
-        },
-        {
-            id: 78,
-            question: "πολλοί",
-            answer: "veel",
+            question:
+                "Berg die ontstaan is door het naar buiten stromen van lava.",
+            answer: "vulkaan",
         },
     ];
 
@@ -466,7 +147,7 @@
 
 <main>
     <div class="container">
-        <h1>Flash Cards Grieks</h1>
+        <h1>Flash Cards Aardrijkskunde</h1>
 
         <div class="score-container">
             <p>Points: {points} (Attempted: {attempted})</p>
