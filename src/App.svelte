@@ -44,7 +44,7 @@
         {
             id: 8,
             question: "Stuk van de aardkorst.",
-            answer: "platen",
+            answer: "plaat",
         },
         {
             id: 9,
