@@ -54,8 +54,8 @@
         },
         {
             id: 10,
-            question: "Een ander woord voor platen.",
-            answer: "schollen",
+            question: "Een ander woord voor plaat.",
+            answer: "schol",
         },
         {
             id: 11,
@@ -152,7 +152,7 @@
         },
         {
             id: 28,
-            question: "Plaats die in de aardkorst waar de aardbeving begint.",
+            question: "Plaats diep in de aardkorst waar de aardbeving begint.",
             answer: "hypocentrum",
         },
         {
@@ -209,39 +209,33 @@
         },
         {
             id: 38,
-            question:
-                "Oude vulkaan met een grote kilometersbrede krater door het leeglopen van de magmakamer waardoor het dak ervan is instort.",
-            answer: "caldeiravulkaan",
-        },
-        {
-            id: 39,
-            question: "vulkaanuitbarsting.",
+            question: "Vulkaanuitbarsting.",
             answer: "eruptie",
         },
         {
-            id: 40,
+            id: 39,
             question:
                 "Grot gat met steile wanden dat ontstaat tijdens een vulkaanuitbarsting.",
             answer: "krater",
         },
         {
-            id: 41,
+            id: 40,
             question: "Meer dat is ontstaan door het vollopen van een krater.",
             answer: "kratermeer",
         },
         {
-            id: 42,
+            id: 41,
             question:
                 "Vulkanisch verschijnsel dat voorkomt bij een vulkaan die niet meer actief is.",
             answer: "postvulkanisch verschijnsel",
         },
         {
-            id: 43,
+            id: 42,
             question: "Lage brede vulkaan met flauwe hellingen.",
             answer: "schildvulkaan",
         },
         {
-            id: 44,
+            id: 43,
             question:
                 "Vulkaan met steile hellingen die opgebouwd is uit lagen lava en pyroclastisch materiaal.",
             answer: "stratovulkaan",
