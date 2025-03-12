@@ -6,7 +6,7 @@
         {
             id: 1,
             question:
-                "Schokkende beweging van een gedeelte van de aardkorst door de werking van endogende krachten.",
+                "Schokkende beweging van een gedeelte van de aardkorst door de werking van endogene krachten.",
             answer: "aardbeving",
         },
         {
@@ -74,6 +74,177 @@
             question:
                 "Berg die ontstaan is door het naar buiten stromen van lava.",
             answer: "vulkaan",
+        },
+        {
+            id: 14,
+            question:
+                "Dunne laag gesteente om de aarde met een dikte van gemiddeld 8 km onder oceanen en 35 km onder continenten.",
+            answer: "aardkorst",
+        },
+        {
+            id: 15,
+            question: "Barst of scheur in de aardkorst.",
+            answer: "breuk",
+        },
+        {
+            id: 16,
+            question: "Het naar elkaar toedrijven van platen.",
+            answer: "convergentie",
+        },
+        {
+            id: 17,
+            question: "Het uitelkaar drijven van platen.",
+            answer: "divergentie",
+        },
+        {
+            id: 18,
+            question: "Kracht die van binnenuit de aardkorst verandert.",
+            answer: "endogene kracht",
+        },
+        {
+            id: 19,
+            question: "Kracht die van buitenaf de aardkorst verandert.",
+            answer: "exogene kracht",
+        },
+        {
+            id: 20,
+            question:
+                "Langrekte bergrug onder in de zee, ontstaan doordat magma bij het uitelkaar drijven van oceanische platen naar boven komt.",
+            answer: "mid-oceanische rug",
+        },
+        {
+            id: 21,
+            question: "Het langs elkaar bewegen van platen.",
+            answer: "transforme beweging",
+        },
+        {
+            id: 22,
+            question: "Stuk van de aardkorst.",
+            answer: "plaat",
+        },
+        {
+            id: 23,
+            question: "Een gebied verlaten omdat het er niet meer veilig is.",
+            answer: "evacueren",
+        },
+        {
+            id: 24,
+            question:
+                "Schaal waarmee de kracht van een aardbeving wordt gemeten.",
+            answer: "schaal van Richter",
+        },
+        {
+            id: 25,
+            question:
+                "Hoge vloedgolf op de zee die de kust overspoelt en die wordt veroorzaakt door een zeebeving.",
+            answer: "tsunami",
+        },
+        {
+            id: 26,
+            question: "Aardbeving waarvan het epicentrum in de zee ligt.",
+            answer: "zeebeving",
+        },
+        {
+            id: 27,
+            question:
+                "Het punt waar de aardbeving aan de aardoppervlakte komt, direct boven het hypocentrum.",
+            answer: "epicentrum",
+        },
+        {
+            id: 28,
+            question: "Plaats die in de aardkorst waar de aardbeving begint.",
+            answer: "hypocentrum",
+        },
+        {
+            id: 29,
+            question:
+                "De schaal waarop je naar de wereld kijkt: lokaal, regionaal, nationaal, continentaal, of mondiaal.",
+            answer: "schaalniveau",
+        },
+        {
+            id: 30,
+            question:
+                "Wetenschapper die zich bezighoudt met het bestuderen van aardbevingen.",
+            answer: "seismoloog",
+        },
+        {
+            id: 31,
+            question:
+                "Zeer grote vulkaankrater die is ontstaan door het instorten van het dak van een leeggelopen magmakamer.",
+            answer: "caldeira",
+        },
+        {
+            id: 32,
+            question: "Aardwarmte.",
+            answer: "geothermie",
+        },
+        {
+            id: 33,
+            question:
+                "Hete gassen vermengd met stenen en as die bij een vulkaanuitbarsting de helling afrazen. Heet ook gloedwolk.",
+            answer: "pyroclastische stroom",
+        },
+        {
+            id: 34,
+            question:
+                "Bron die ontstaat door geothermische verwarming van grondwater. Heet ook hot spring.",
+            answer: "warmtebron",
+        },
+        {
+            id: 35,
+            question: "Ruimte in een vulkaan die gevuld is met magma.",
+            answer: "magmakamer",
+        },
+        {
+            id: 36,
+            question:
+                "Vrij zachte steensoort die bestaat uit aan elkaar gekitte vulkanische as.",
+            answer: "tufsteen",
+        },
+        {
+            id: 37,
+            question:
+                "Oude vulkaan met een grote kilometersbrede krater door het leeglopen van de magmakamer waardoor het dak ervan is instort.",
+            answer: "caldeiravulkaan",
+        },
+        {
+            id: 38,
+            question:
+                "Oude vulkaan met een grote kilometersbrede krater door het leeglopen van de magmakamer waardoor het dak ervan is instort.",
+            answer: "caldeiravulkaan",
+        },
+        {
+            id: 39,
+            question: "vulkaanuitbarsting.",
+            answer: "eruptie",
+        },
+        {
+            id: 40,
+            question:
+                "Grot gat met steile wanden dat ontstaat tijdens een vulkaanuitbarsting.",
+            answer: "krater",
+        },
+        {
+            id: 41,
+            question: "Meer dat is ontstaan door het vollopen van een krater.",
+            answer: "kratermeer",
+        },
+        {
+            id: 42,
+            question:
+                "Vulkanisch verschijnsel dat voorkomt bij een vulkaan die niet meer actief is.",
+            answer: "postvulkanisch verschijnsel",
+        },
+        {
+            id: 43,
+            question: "Lage brede vulkaan met flauwe hellingen.",
+            answer: "schildvulkaan",
+        },
+        {
+            id: 44,
+            question:
+                "Vulkaan met steile hellingen die opgebouwd is uit lagen lava en pyroclastisch materiaal.",
+            answer: "stratovulkaan",
         },
     ];
 
