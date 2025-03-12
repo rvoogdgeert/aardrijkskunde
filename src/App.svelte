@@ -18,7 +18,7 @@
             id: 3,
             question:
                 "Stroming van het gesmolten gesteente onder de aardkorst binnen in de aarde.",
-            answer: "convectiestromen",
+            answer: "convectiestroom",
         },
         {
             id: 4,
@@ -215,7 +215,7 @@
         {
             id: 39,
             question:
-                "Grot gat met steile wanden dat ontstaat tijdens een vulkaanuitbarsting.",
+                "Groot gat met steile wanden dat ontstaat tijdens een vulkaanuitbarsting.",
             answer: "krater",
         },
         {
